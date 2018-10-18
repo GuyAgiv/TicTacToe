@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TicTacToiUI", "TicTacToiUI\TicTacToiUI.csproj", "{E646F62E-2564-4A4D-B23F-CDD487756937}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TicTacToeLogic", "TicTacToeLogic\TicTacToeLogic.csproj", "{CF60EAA0-6B57-43C6-8FF2-629D1D77EBC9}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{6CDEFB7D-79E6-4F18-8ABF-3A3F03E1BE8C}"
+	ProjectSection(SolutionItems) = preProject
+		Exercise Checking Report.txt = Exercise Checking Report.txt
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E646F62E-2564-4A4D-B23F-CDD487756937}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E646F62E-2564-4A4D-B23F-CDD487756937}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E646F62E-2564-4A4D-B23F-CDD487756937}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E646F62E-2564-4A4D-B23F-CDD487756937}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF60EAA0-6B57-43C6-8FF2-629D1D77EBC9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF60EAA0-6B57-43C6-8FF2-629D1D77EBC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF60EAA0-6B57-43C6-8FF2-629D1D77EBC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF60EAA0-6B57-43C6-8FF2-629D1D77EBC9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

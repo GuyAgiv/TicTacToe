@@ -1,0 +1,16 @@
+==========================Exercise Checking Report==========================
+Exercise No...........: 5
+First Student Details.: 203507926 - Guy Agiv
+Second Student Details: 320775638- Oksana Rubanov
+Delivery Date.........: 26 - September - 2017
+Delivered In Delay....: No
+Delay Reason..........: None.
+Visual Studio Version.: 2015
+Comments..............: Dear inspector, the maximum value of buttons table is 10 and the minimum is 4 according
+to the example in the PDF file, we hope that this is what was pleased, one more thing - we made the player 1/player 2 being bold
+while their turn to play. However, while playing against the CPU you wouldnt see the Computer label bold , thats because
+of the Computer playing so fast and human eye cant see it. If you would like to see that the Computer being bold
+in his turn, you can put a MessageBox.Show in the right place. 
+We tried to make our best and to make UX best as possbile along the time we had.
+Wish you "Shana Tova Umtuka" :).
+========================End Exercise Checking Report========================

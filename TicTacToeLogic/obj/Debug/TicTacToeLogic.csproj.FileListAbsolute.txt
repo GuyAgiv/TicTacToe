@@ -1,0 +1,5 @@
+D:\Users\Guy\Desktop\C17 Ex05 GuyAgiv 203507926 OksanaRubanov 320775638\C17 Ex05 GuyAgiv 203507926 OksanaRubanov 320775638\TicTacToeLogic\bin\Debug\TicTacToeLogic.dll
+D:\Users\Guy\Desktop\C17 Ex05 GuyAgiv 203507926 OksanaRubanov 320775638\C17 Ex05 GuyAgiv 203507926 OksanaRubanov 320775638\TicTacToeLogic\bin\Debug\TicTacToeLogic.pdb
+D:\Users\Guy\Desktop\C17 Ex05 GuyAgiv 203507926 OksanaRubanov 320775638\C17 Ex05 GuyAgiv 203507926 OksanaRubanov 320775638\TicTacToeLogic\obj\Debug\TicTacToeLogic.csprojResolveAssemblyReference.cache
+D:\Users\Guy\Desktop\C17 Ex05 GuyAgiv 203507926 OksanaRubanov 320775638\C17 Ex05 GuyAgiv 203507926 OksanaRubanov 320775638\TicTacToeLogic\obj\Debug\TicTacToeLogic.dll
+D:\Users\Guy\Desktop\C17 Ex05 GuyAgiv 203507926 OksanaRubanov 320775638\C17 Ex05 GuyAgiv 203507926 OksanaRubanov 320775638\TicTacToeLogic\obj\Debug\TicTacToeLogic.pdb
